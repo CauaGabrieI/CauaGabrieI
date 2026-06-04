@@ -1,6 +1,6 @@
 # Olá, eu sou o Cauã 👋
 
-Estudante de Ciência da Computação, com foco principalmente em criação de sistemas. Gosto de aprender fazendo, testando ideias na prática e criando projetos para melhorar minhas habilidades com programação e resolução de problemas.
+Estudante de Ciência da Computação, com foco em criação de sistemas. Gosto de aprender fazendo, testando ideias na prática e criando projetos para melhorar minhas habilidades com programação e resolução de problemas.
 
 ## 🚀 O que estou estudando atualmente
 
@@ -9,6 +9,7 @@ Atualmente estou estudando e praticando para ganhar mais experiência na área d
 Tenho interesse em áreas como:
 
 * Criação de sistemas
+* Automação
 * IoT
 * Robótica
 * Organização de projetos
@@ -18,17 +19,16 @@ Tenho interesse em áreas como:
 
 Algumas ferramentas e tecnologias que uso ou estou aprendendo:
 
-* HTML e CSS
-* Python
-* C
-* Java
-* Git e GitHub
-* Linux
-* UML e modelagem de sistemas
+https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
+
+
+
+
+
+
+\
 
 ## 📫 Como entrar em contato comigo
-
-* LinkedIn: https://www.linkedin.com/in/cau%C3%A3-gabriel-mateus/
 
 ---
 
