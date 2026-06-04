@@ -9,7 +9,6 @@ Atualmente estou estudando e praticando para ganhar mais experiência na área d
 Tenho interesse em áreas como:
 
 * Criação de sistemas
-* Automação
 * IoT
 * Robótica
 * Organização de projetos
