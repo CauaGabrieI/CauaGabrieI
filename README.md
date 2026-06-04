@@ -32,7 +32,7 @@ Algumas ferramentas e tecnologias que uso ou estou aprendendo:
 
 
 
-## 📫 Como entrar em contato comigo
+
 
 ---
 
