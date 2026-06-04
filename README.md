@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou o Cauã 👋
 
-<!--
-**CauaGabrieI/CauaGabrieI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação, com foco principalmente em criação de sistemas. Gosto de aprender fazendo, testando ideias na prática e criando projetos para melhorar minhas habilidades com programação e resolução de problemas.
 
-Here are some ideas to get you started:
+## 🚀 O que estou estudando atualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou estudando e praticando para ganhar mais experiência na área de tecnologia.
+
+Tenho interesse em áreas como:
+
+* Criação de sistemas
+* Automação
+* IoT
+* Robótica
+* Organização de projetos
+* Desenvolvimento de soluções práticas
+
+## 🛠️ Ferramentas e tecnologias
+
+Algumas ferramentas e tecnologias que uso ou estou aprendendo:
+
+* HTML e CSS
+* Python
+* C
+* Java
+* Git e GitHub
+* Linux
+* UML e modelagem de sistemas
+
+## 📫 Como entrar em contato comigo
+
+* LinkedIn: https://www.linkedin.com/in/cau%C3%A3-gabriel-mateus/
+
+---
+
+Sempre buscando aprender mais e transformar ideias em projetos reais.
