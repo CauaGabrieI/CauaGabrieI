@@ -19,14 +19,14 @@ Tenho interesse em áreas como:
 
 Algumas ferramentas e tecnologias que uso ou estou aprendendo:
 
-https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
 
 
 
 
 
 
-\
+
+
 
 ## 📫 Como entrar em contato comigo
 
